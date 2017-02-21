@@ -1,0 +1,1 @@
+# elsatic-beanstak-demo
